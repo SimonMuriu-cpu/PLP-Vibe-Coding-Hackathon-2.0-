@@ -347,6 +347,10 @@ This project was developed by the following team members:
 - **Email**: ongwenyicynthia@gmail.com
 - **Role**: Testing & Quality Assurance
 
+### **Mutwiri Gachanja**
+- **Email**: mutwirigachanja1@gmail.com
+- **Role**: Testing & Quality Assurance
+
 ---
 
 ## 📄 License
